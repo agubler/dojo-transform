@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "globby": "^8.0.1",
     "jscodeshift": "^0.6.2"
   }
 }
