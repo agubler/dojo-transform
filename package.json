@@ -3,13 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "jscodeshift -t index.js transforms"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "globby": "^8.0.1",
-    "jscodeshift": "^0.6.2"
+    "globby": "8.0.1",
+    "recast": "0.16.1"
   }
 }
